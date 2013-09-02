@@ -59,4 +59,4 @@ function generate($categoryid)
 	} 
 }</pre>
 
-For more examples and documentation of vCategory Script visit http://www.mediasoftpro.com/php/vcategory.html
+For more examples and documentation of vCategory Script visit http://www.mediasoftpro.com/php/vcategory/
