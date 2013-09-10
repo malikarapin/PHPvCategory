@@ -11,9 +11,8 @@
  * @version 1.0
  */
  
-$docroot = $_SERVER['DOCUMENT_ROOT'];
-$dir = "vsk/";
-include_once($docroot . "" . $dir . "include/bll/categoriesmgt.php");
+
+include_once("bll.php");
 
 class vskCategory
 {
